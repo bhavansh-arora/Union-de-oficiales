@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317026481036",
+    "project_id": "uoapp-12312",
+    "storage_bucket": "uoapp-12312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317026481036:android:f618e4b23ce02ad7591ca9",
+        "android_client_info": {
+          "package_name": "com.magnasoftware.uoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317026481036-204pnckcupkvctbhne49t6j5l15rs4bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magnasoftware.uoapp",
+            "certificate_hash": "53d619a40798e3e002d19d4630e509eb9ebc4d8b"
+          }
+        },
+        {
+          "client_id": "317026481036-ks9ddr50efvbn1ni2mak0g99ububnciv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_bQhn8SwltQccNXHzus7QYd-riPtOcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317026481036-ks9ddr50efvbn1ni2mak0g99ububnciv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

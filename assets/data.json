@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "title": "Category 1",
+      "subcategories": [
+        {
+          "title": "Sub-Category 1",
+          "files": [
+            {
+              "title": "File 1",
+              "file": "file1.jpg"
+            },
+            {
+              "title": "File 2",
+              "file": "file2.jpg"
+            }
+          ],
+          "permissions": ["administrator"]
+        },
+        {
+          "title": "Sub-Category 2",
+          "files": [
+            {
+              "title": "File 3",
+              "file": "file3.jpg"
+            },
+            {
+              "title": "File 4",
+              "file": "file4.jpg"
+            }
+          ],
+          "permissions": ["administrator"]
+        }
+      ],
+      "files": [
+        {
+          "title": "C1-File 3",
+          "file": "C1-file3.jpg"
+        },
+        {
+          "title": "C1-File 4",
+          "file": "C1-file4.jpg"
+        }
+      ],
+      "permissions": ["administrator", "subscriber"]
+    },
+    {
+      "title": "Category 2",
+      "subcategories": [
+        {
+          "title": "Sub-Category 3",
+          "files": [
+            {
+              "title": "File 5",
+              "file": "file5.jpg"
+            },
+            {
+              "title": "File 6",
+              "file": "file6.jpg"
+            }
+          ],
+          "permissions": ["administrator"]
+        },
+        {
+          "title": "Sub-Category 4",
+          "files": [
+            {
+              "title": "File 7",
+              "file": "file7.jpg"
+            },
+            {
+              "title": "File 8",
+              "file": "file8.jpg"
+            }
+          ],
+          "permissions": ["administrator"]
+        }
+      ],
+      "files": [
+        {
+          "title": "C2-File 5",
+          "file": "C2-file5.jpg"
+        },
+        {
+          "title": "C2-File 6",
+          "file": "C2-file6.jpg"
+        }
+      ],
+      "permissions": ["administrator"]
+    }
+  ]
+}
