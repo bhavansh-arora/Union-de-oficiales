@@ -66,7 +66,7 @@ const MyWebView = props => {
         </View>
       ) : null}
       <WebView
-        style={{marginBottom: 75, opacity: 0.99, overflow: 'hidden'}}
+        style={{opacity: 0.99, overflow: 'hidden'}}
         ref={webViewRef}
         onNavigationStateChange={data => {
           console.log(data);
